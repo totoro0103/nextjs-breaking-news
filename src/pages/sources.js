@@ -17,7 +17,7 @@ function SourcesPage(props) {
   return (
     <Layout>
       <input
-        className="w-full rounded-md bg-gray-200 text-gray-700 leading-tight focus:outline-none py-2 px-2 mt-2 fixed"
+        className="w-full rounded-md bg-gray-200 text-gray-700 leading-tight focus:outline-none py-2 px-2 mt-2"
         id="search"
         type="text"
         placeholder="Search..."
